@@ -1,6 +1,8 @@
 # DiFa: Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks
 [![arXiv](https://img.shields.io/badge/arXiv-2207.08736-b31b1b.svg)](https://arxiv.org/abs/2207.08736)
 
+现在先看看怎么吧这个代码跑通，尤其是几个真实数据集和训练集。
+
 > **Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks**<br>
 > Yabo Zhang, Mingshuai Yao, Yuxiang Wei, Zhilong Ji, Jinfeng Bai, Wangmeng Zuo <br>
 > 
